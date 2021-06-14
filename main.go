@@ -14,5 +14,5 @@ func main() {
 	Images()      // https://tour.golang.org/methods/25
 
 	EquivalentBinaryTrees() // https://tour.golang.org/concurrency/7
-
+	WebCrawler()            // https://tour.golang.org/concurrency/10
 }
